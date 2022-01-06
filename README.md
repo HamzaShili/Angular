@@ -1,2 +1,2 @@
-# Laravel-Angular
+# Angular
 E-commerce
